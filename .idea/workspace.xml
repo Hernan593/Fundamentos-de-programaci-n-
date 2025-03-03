@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9153ceb-d6ac-4d1f-b9d3-008bbc037e85" name="Changes" comment="Programa agregado de búsqueda de matrices">
-      <change beforePath="$PROJECT_DIR$/ordenacion_matriz.py" beforeDir="false" afterPath="$PROJECT_DIR$/ordenacion_matriz.py" afterDir="false" />
-    </list>
+    <list default="true" id="c9153ceb-d6ac-4d1f-b9d3-008bbc037e85" name="Changes" comment="Programa agregado de ordenación de matrices" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,12 +185,29 @@
       <option name="project" value="LOCAL" />
       <updated>1740965434903</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Programa agregado de ordenación de matrices">
+      <option name="closed" value="true" />
+      <created>1740966145939</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740966145939</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Programa agregado de ordenación de matrices">
+      <option name="closed" value="true" />
+      <created>1740966258901</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740966258901</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Programa agregado de búsqueda de matrices" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programa agregado de búsqueda de matrices" />
+    <MESSAGE value="Programa agregado de ordenación de matrices" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programa agregado de ordenación de matrices" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
