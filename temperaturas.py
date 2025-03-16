@@ -17,17 +17,30 @@ for ciudad in ciudades:
         matriz_ciudad.append(matriz_semana)
     matriz_temperaturas.append(matriz_ciudad)
 
-promedios_semanales = []
+def calcular_promedio_ciudades(matriz_temperaturas):
+    """
+    Calcula el promedio de temperatura para cada ciudad.
 
-for i, ciudad in enumerate(ciudades):
-    promedios_ciudad = []
-    for j, semana in enumerate(semanas):
-        temperaturas_semana = matriz_temperaturas[i][j]
-        promedio = sum(temperaturas_semana) / len(temperaturas_semana)
-        promedios_ciudad.append(promedio)
-    promedios_semanales.append(promedios_ciudad)
+    Args:
+        matriz_temperaturas (list): Matriz con las temperaturas de cada ciudad.
 
-for i, ciudad in enumerate(ciudades):
-    print(f"Promedios de {ciudad}:")
-    for j, semana in enumerate(semanas):
-        print(f"  {semana}: {promedios_semanales[i][j]:.2f} grados")
+    Returns:
+        dict: Diccionario con el promedio de temperatura por ciudad.
+    """
+
+    promedios_ciudades = {}
+    for i, ciudad in enumerate(ciudades):
+        total_temperaturas = 0
+        total_dias = 0
+        for semana in matriz_temperaturas[i]:
+            for temperatura in semana:
+                total_temperaturas += temperatura
+                total_dias += 1
+        promedio = total_temperaturas / total_dias
+        promedios_ciudades[ciudad] = promedio
+    return promedios_ciudades
+
+promedios_por_ciudad = calcular_promedio_ciudades(matriz_temperaturas)
+
+for ciudad, promedio in promedios_por_ciudad.items():
+    print(f"Promedio de temperatura en {ciudad}: {promedio:.2f} grados")
