@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9153ceb-d6ac-4d1f-b9d3-008bbc037e85" name="Changes" comment="Añadida solución para la tarea de temperaturas">
+    <list default="true" id="c9153ceb-d6ac-4d1f-b9d3-008bbc037e85" name="Changes" comment="Código completo con función para calcular promedios">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temperaturas.py" beforeDir="false" afterPath="$PROJECT_DIR$/temperaturas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temperaturas.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\Fundamentos-de-programaci-n-\semana 13\temperaturas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,14 +252,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741497912109</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Código completo con función para calcular promedios">
+      <option name="closed" value="true" />
+      <created>1742169252189</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742169252189</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Programa agregado de búsqueda de matrices" />
     <MESSAGE value="Programa agregado de ordenación de matrices" />
     <MESSAGE value="Añadida solución para la tarea de temperaturas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añadida solución para la tarea de temperaturas" />
+    <MESSAGE value="Código completo con función para calcular promedios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Código completo con función para calcular promedios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
