@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9153ceb-d6ac-4d1f-b9d3-008bbc037e85" name="Changes" comment="Código completo con función para calcular promedios">
-      <change afterPath="$PROJECT_DIR$/Semana 14/calcular_descuento.py" afterDir="false" />
+    <list default="true" id="c9153ceb-d6ac-4d1f-b9d3-008bbc037e85" name="Changes" comment="Código completo con función para calcular descuentos">
+      <change afterPath="$PROJECT_DIR$/Semana 15/Diccionarios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Diccionarios.executor": "Run",
     "Python.busqueda_matriz.executor": "Run",
     "Python.calcular_descuento.executor": "Run",
     "Python.ordenacion_matriz.executor": "Run",
@@ -74,7 +75,29 @@
       <recent name="C:\Users\USER\PycharmProjects\Fundamentos-de-programaci-n-\semana 13" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calcular_descuento">
+  <component name="RunManager" selected="Python.Diccionarios">
+    <configuration name="Diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentos-de-programaci-n-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Semana 15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Semana 15/Diccionarios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="busqueda_matriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentos-de-programaci-n-" />
       <option name="ENV_FILES" value="" />
@@ -187,6 +210,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Diccionarios" />
         <item itemvalue="Python.calcular_descuento" />
         <item itemvalue="Python.temperaturas" />
         <item itemvalue="Python.ordenacion_matriz" />
@@ -298,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742170129227</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Código completo con función para calcular descuentos">
+      <option name="closed" value="true" />
+      <created>1742765037419</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1742765037419</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,7 +349,8 @@
     <MESSAGE value="Programa agregado de ordenación de matrices" />
     <MESSAGE value="Añadida solución para la tarea de temperaturas" />
     <MESSAGE value="Código completo con función para calcular promedios" />
-    <option name="LAST_COMMIT_MESSAGE" value="Código completo con función para calcular promedios" />
+    <MESSAGE value="Código completo con función para calcular descuentos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Código completo con función para calcular descuentos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
