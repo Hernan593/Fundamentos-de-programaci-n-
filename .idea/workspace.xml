@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9153ceb-d6ac-4d1f-b9d3-008bbc037e85" name="Changes" comment="Código completo con función para calcular descuentos">
-      <change afterPath="$PROJECT_DIR$/Semana 15/Diccionarios.py" afterDir="false" />
+    <list default="true" id="c9153ceb-d6ac-4d1f-b9d3-008bbc037e85" name="Changes" comment="Código completo con diccionario">
+      <change afterPath="$PROJECT_DIR$/Semana 16/my_notes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Python.Diccionarios.executor": "Run",
     "Python.busqueda_matriz.executor": "Run",
     "Python.calcular_descuento.executor": "Run",
+    "Python.my_notes.executor": "Run",
     "Python.ordenacion_matriz.executor": "Run",
     "Python.temperaturas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -75,7 +76,7 @@
       <recent name="C:\Users\USER\PycharmProjects\Fundamentos-de-programaci-n-\semana 13" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Diccionarios">
+  <component name="RunManager" selected="Python.my_notes">
     <configuration name="Diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentos-de-programaci-n-" />
       <option name="ENV_FILES" value="" />
@@ -90,28 +91,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Semana 15/Diccionarios.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="busqueda_matriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentos-de-programaci-n-" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/busqueda_matriz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,6 +135,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_notes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentos-de-programaci-n-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Semana 16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Semana 16/my_notes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my_notes" />
         <item itemvalue="Python.Diccionarios" />
         <item itemvalue="Python.calcular_descuento" />
         <item itemvalue="Python.temperaturas" />
         <item itemvalue="Python.ordenacion_matriz" />
-        <item itemvalue="Python.busqueda_matriz" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742765037419</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Código completo con diccionario">
+      <option name="closed" value="true" />
+      <created>1743376871396</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1743376871396</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -350,7 +359,8 @@
     <MESSAGE value="Añadida solución para la tarea de temperaturas" />
     <MESSAGE value="Código completo con función para calcular promedios" />
     <MESSAGE value="Código completo con función para calcular descuentos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Código completo con función para calcular descuentos" />
+    <MESSAGE value="Código completo con diccionario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Código completo con diccionario" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
