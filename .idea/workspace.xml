@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9153ceb-d6ac-4d1f-b9d3-008bbc037e85" name="Changes" comment="Código completo con diccionario">
-      <change afterPath="$PROJECT_DIR$/Semana 16/my_notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEGUNDO SEMESTRE/abstracción.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEGUNDO SEMESTRE/encapsulación.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEGUNDO SEMESTRE/herencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEGUNDO SEMESTRE/polimorfismo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,10 +55,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Diccionarios.executor": "Run",
+    "Python.abstracción.executor": "Run",
     "Python.busqueda_matriz.executor": "Run",
     "Python.calcular_descuento.executor": "Run",
+    "Python.encapsulación.executor": "Run",
+    "Python.herencia.executor": "Run",
     "Python.my_notes.executor": "Run",
     "Python.ordenacion_matriz.executor": "Run",
+    "Python.polimorfismo.executor": "Run",
     "Python.temperaturas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,8 +83,8 @@
       <recent name="C:\Users\USER\PycharmProjects\Fundamentos-de-programaci-n-\semana 13" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.my_notes">
-    <configuration name="Diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.polimorfismo">
+    <configuration name="abstracción" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentos-de-programaci-n-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Semana 15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SEGUNDO SEMESTRE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Semana 15/Diccionarios.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SEGUNDO SEMESTRE/abstracción.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calcular_descuento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="encapsulación" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentos-de-programaci-n-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,11 +115,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Semana 14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SEGUNDO SEMESTRE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Semana 14/calcular_descuento.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SEGUNDO SEMESTRE/encapsulación.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="herencia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentos-de-programaci-n-" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SEGUNDO SEMESTRE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SEGUNDO SEMESTRE/herencia.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ordenacion_matriz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="polimorfismo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentos-de-programaci-n-" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,33 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SEGUNDO SEMESTRE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ordenacion_matriz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="temperaturas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentos-de-programaci-n-" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\PycharmProjects\Fundamentos-de-programaci-n-\semana 13\temperaturas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SEGUNDO SEMESTRE/polimorfismo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.polimorfismo" />
+        <item itemvalue="Python.herencia" />
+        <item itemvalue="Python.encapsulación" />
+        <item itemvalue="Python.abstracción" />
         <item itemvalue="Python.my_notes" />
-        <item itemvalue="Python.Diccionarios" />
-        <item itemvalue="Python.calcular_descuento" />
-        <item itemvalue="Python.temperaturas" />
-        <item itemvalue="Python.ordenacion_matriz" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743376871396</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Código completo con diccionario">
+      <option name="closed" value="true" />
+      <created>1743987967526</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1743987967527</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
